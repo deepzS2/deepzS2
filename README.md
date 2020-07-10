@@ -1,8 +1,5 @@
 ### 👋 Hey! Hello foreigner! 👋
 
-<!--
-**deepzS2/deepzS2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Welcome to deepzS2 github,
 I'm a **Full Stack Developer** and a **UI/UX designer**.
 The language I love to develop is **JavaScript** :smiling_face_with_3_hearts:  such a great language...
