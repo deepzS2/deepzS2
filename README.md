@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on SABESP Penha
 - 🌱 I’m currently learning JavaScript
 - 💬 Ask me about games, programming, design, etc.
-- 📫 How to reach me: [Email](alanbackman10@hotmail.com)
+- 📫 How to reach me: alanbackman10@hotmail.com (Email), 『 ♥ deepz ♥ 』#4008 (Discord)
 - ⚡ Fun fact: I love Game Development and I want to learn about it...
