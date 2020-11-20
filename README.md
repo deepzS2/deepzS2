@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on SABESP Penha
 - 🌱 I’m currently learning JavaScript, C# for Unity, Pentest, 3D Modeling and Digital Art.
 - 💬 Ask me about games, programming, design, etc.
-- 📫 How to reach me: [Email](mailto:alanbackman10@hotmail.com?subject=[Github]), [Discord](https://discord.com/users/411557789068951552)
+- 📫 How to reach me: [Discord](https://discord.com/users/411557789068951552)
 - ⚡ Fun fact: I love Game Development and I want to learn about it...
