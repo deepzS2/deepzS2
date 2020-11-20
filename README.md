@@ -2,7 +2,7 @@
 
 Welcome to deepzS2 github,
 I'm a **Full Stack Developer** and a **UI/UX designer**.
-The language I love to develop is **JavaScript** :smiling_face_with_3_hearts:  such a great language...
+The language I love to develop is **JavaScript** 🥰 such a great language...
 
 I know libraries/frameworks like **ReactJS, VueJS, AdonisJS, TypeScript and Express**
 
