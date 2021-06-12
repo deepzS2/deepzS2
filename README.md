@@ -1,15 +1,33 @@
+![](./art.png)
+
 ### 👋 Hey! Hello foreigner! 👋
 
 Welcome to deepzS2 github,
-I'm a **Full Stack Developer** and a **UI/UX designer**.
-The language I love to develop is **JavaScript** 🥰 such a great language...
+I'm a **Full Stack Developer**, **UI/UX designer** and learning about **Game development**.
 
-I know libraries/frameworks like **ReactJS, VueJS, AdonisJS, TypeScript and Express**
+The language I love to develop is **JavaScript**, but I'm looking forward to learn another languages like **C++**...
+
+I know libraries/frameworks NodeJS like **[ReactJS](https://pt-br.reactjs.org), [VueJS](https://vuejs.org), [TypeScript](https://www.typescriptlang.org), [ExpressJS](https://expressjs.com/pt-br/) and [React Native](https://reactnative.dev)** and learning a lot more about!
+I'm also learning about the potential of [ThreeJs](https://threejs.org) which you can use to make 3D websites (even games in the web 👀).
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on SABESP Penha
+- 🔭 I’m currently unemployed
 - 🌱 I’m currently learning JavaScript, C# for Unity, Pentest, 3D Modeling and Digital Art.
 - 💬 Ask me about games, programming, design, etc.
-- 📫 How to reach me: [Email](mailto:alanbackman10@hotmail.com?subject=%5BGithub%5D), [Discord](https://discord.com/users/411557789068951552)
 - ⚡ Fun fact: I love Game Development and I want to learn about it...
+
+### Things I learned by studying
+And I'll still learning more about the crazy world of programming!
+
+- [x] Python;
+- [x] SQL (PostgresSQL and MySQL);
+- [x] C# for Unity;
+- [ ] C++;
+- [x] JavaScript;
+- [x] Blender;
+- [x] Linux;
+- [x] Git;
+
+### Stats
+![deepzS2's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepzS2&show_icons=true&theme=dark)
