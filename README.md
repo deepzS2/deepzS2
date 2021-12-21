@@ -1,7 +1,7 @@
 ![](./art.png)
 [Background art here](https://www.zerochan.net/2136395#full)
 
-### 👋 Hey! Hello foreigner! 👋
+### 👋 "Boa noite!" 👋
 
 Welcome to deepzS2 github,
 I'm a **Full Stack Developer**, **UI/UX designer** and learning about **Game development**.
@@ -13,10 +13,9 @@ I'm also learning about the potential of [ThreeJs](https://threejs.org) which yo
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently unemployed
-- 🌱 I’m currently learning JavaScript, C# for Unity, Pentest, 3D Modeling and Digital Art.
+- 🔭 I’m currently unemployed;
+- 🌱 I’m currently learning JavaScript, C# for Unity, Pentest, 3D Modeling and Digital Art;
 - 💬 Ask me about games, programming, design, etc.
-- ⚡ Fun fact: I love Game Development and I want to learn about it...
 
 ### Things I learned by studying
 And I'll still learning more about the crazy world of programming!
