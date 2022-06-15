@@ -4,12 +4,11 @@
 ### 👋 "Boa noite!" 👋
 
 Welcome to deepzS2 github,
-I'm a **Full Stack Developer**, **UI/UX designer** and learning about **Game development**.
+I'm a **Full Stack Developer** with a little knowledge about **DevOps**, **Game Developer** and **UI/UX designer**.
 
-The language I love to develop is **JavaScript**, but I'm looking forward to learn another languages like **C++**...
+The language I love to develop is **JavaScript/TypeScript**, but I'm looking forward to learn another languages like **C++**, **Golang**, **Elixir**, etc...
 
-I know libraries/frameworks NodeJS like **[ReactJS](https://pt-br.reactjs.org), [VueJS](https://vuejs.org), [TypeScript](https://www.typescriptlang.org), [ExpressJS](https://expressjs.com/pt-br/) and [React Native](https://reactnative.dev)** and learning a lot more about!
-I'm also learning about the potential of [ThreeJs](https://threejs.org) which you can use to make 3D websites (even games in the web 👀).
+I started learning development since 2019, my first language was C and my first passion by a language was JavaScript, since then I started to learn Web Development and a lot more. Today I learned a lot about Node.js and his possibilities to make a FullStack website with one frameword/library like [Next.js](https://nextjs.org). But when I started to look deep into **Game Development**, C# was my new favorite language, making me study .NET Framework for developing APIs and concepts/patterns such as like Repository Pattern, DDD (Domain Driven Design), SOLID, etc., which in Node.js I never saw about.
 
 Here are some ideas to get you started:
 
@@ -34,6 +33,8 @@ And I'll still learning more about the crazy world of programming!
 - [x] Design Patterns (SOLID, Repository Pattern, etc.);
 - [x] Domain Driven Design (DDD);
 - [ ] C++;
+- [ ] Elixir;
+- [ ] Golang;
 - [ ] AWS and Azure;
 
 ### Stats
