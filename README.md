@@ -1,5 +1,5 @@
-![](./art.png)
-[Background art here](https://www.zerochan.net/2136395#full)
+![Banner](./banner.gif)
+[Background art here](https://tenor.com/view/dark-souls-bonfire-rest-warm-gif-16368928)
 
 ### 👋 "Boa noite!" 👋
 
