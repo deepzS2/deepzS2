@@ -14,20 +14,27 @@ I'm also learning about the potential of [ThreeJs](https://threejs.org) which yo
 Here are some ideas to get you started:
 
 - 🔭 I’m currently unemployed;
-- 🌱 I’m currently learning JavaScript, C# for Unity, Pentest, 3D Modeling and Digital Art;
+- 🌱 I’m currently learning AWS, Azure and Game Development;
 - 💬 Ask me about games, programming, design, etc.
 
-### Things I learned by studying
+### My knowledge
 And I'll still learning more about the crazy world of programming!
 
-- [x] Python;
 - [x] SQL (PostgresSQL and MySQL);
-- [x] C# for Unity;
-- [ ] C++;
-- [x] JavaScript;
+- [x] NoSQL (MongoDB); 
+- [x] Unity and .NET (C#);
+- [x] Node.js, Angular.js, React.js (TypeScript and Javascript);
+- [x] CI/CD;
+- [x] Docker and Kubernetes;
+- [x] Agile Methodologies;
+- [x] Python;
 - [x] Blender;
 - [x] Linux;
 - [x] Git;
+- [x] Design Patterns (SOLID, Repository Pattern, etc.);
+- [x] Domain Driven Design (DDD);
+- [ ] C++;
+- [ ] AWS and Azure;
 
 ### Stats
 ![deepzS2's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepzS2&show_icons=true&theme=dark)
