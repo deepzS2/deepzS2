@@ -38,4 +38,9 @@ And I'll still learning more about the crazy world of programming!
 - [ ] AWS and Azure;
 
 ### Stats
-![deepzS2's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepzS2&show_icons=true&theme=dark)
+<div align="center">
+  <img width="450em" alt="deepzS2's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=deepzS2&show_icons=true&theme=dark" />
+  <img width="380em" alt="deepzS2's GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepzS2&layout=compact&show_icons=true&theme=dark" />
+</div>
+
+![Snake animation](https://github.com/deepzS2/deepzS2/blob/output/github-contribution-grid-snake.svg)
