@@ -4,7 +4,7 @@
 ### 👋 "Boa noite!" 👋
 
 Welcome to deepzS2 github,
-I'm a **Full Stack Developer** with a little knowledge about **DevOps**, **Game Developer** and **UI/UX designer**.
+I'm a **Full Stack Developer** with a little knowledge about **DevOps**, **Game Developer** and **UI/UX design**.
 
 The language I love to develop is **JavaScript/TypeScript**, but I'm looking forward to learn another languages like **C++**, **Golang**, **Elixir**, etc...
 
