@@ -12,7 +12,7 @@ I started learning development since 2019, my first language was C and my first 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently unemployed;
+- 🔭 I’m currently working on LinkApi by Semantix;
 - 🌱 I’m currently learning AWS, Azure and Game Development;
 - 💬 Ask me about games, programming, design, etc.
 
