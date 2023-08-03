@@ -3,45 +3,40 @@
 
 ### 👋 "Boa noite!" 👋
 
-Welcome to deepzS2 github,
-I'm a **Full Stack Developer** with a little knowledge about **DevOps**, **Game Developer** and **UI/UX design**.
+Welcome to deepzS2 Github!
 
-The language I love to develop is **JavaScript/TypeScript**, but I'm looking forward to learn another languages like **C++**, **Golang**, **Elixir**, etc...
+I'm a Full Stack Developer with experience in **DevOps**, **Game Development**, and **UI/UX Design**.
 
-I started learning development since 2019, my first language was C and my first passion by a language was JavaScript, since then I started to learn Web Development and a lot more. Today I learned a lot about Node.js and his possibilities to make a FullStack website with one framework/library like [Next.js](https://nextjs.org). But when I started to look deep into **Game Development**, C# was my new favorite language, making me study .NET Framework for developing APIs and concepts/patterns such as like Repository Pattern, DDD (Domain Driven Design), SOLID, etc., which in Node.js I never saw about.
+My favorite language to work with is **JavaScript/TypeScript**, but I'm also interested in expanding my knowledge with other languages like C++, Golang, Elixir, and more.
 
-Here are some ideas to get you started:
+I began learning development in 2019, starting with **C** and quickly falling in love with **JavaScript**. Since then, I've been studying web development and more. Currently, I have a lot of experience with [Node.js](https://nodejs.org/en) and its potential for creating full-stack websites using frameworks/libraries like [Next.js](https://nextjs.org). However, when I started exploring **Game Development**, C# quickly became my second favorite language. This led me to study the .NET Framework to develop APIs and concepts/patterns like the Repository Pattern, DDD (Domain Driven Design), SOLID, etc., which I hadn't encountered before with **Node.js**.
 
-- 🔭 I’m currently working on LinkApi by Semantix;
-- 🌱 I’m currently learning AWS, Azure and Game Development;
-- 💬 Ask me about games, programming, design, etc.
+Here are a few things to know about me:
 
-### My knowledge
-And I'll still learning more about the crazy world of programming!
+- 🔭 I'm currently looking for **employment opportunities**;
+- 🌱 I'm currently learning **Azure** and **Game Development**;
+- 💬 Feel free to ask me anything about games, programming, design, and more.
 
-- [x] SQL (PostgresSQL and MySQL);
-- [x] NoSQL (MongoDB); 
-- [x] Unity and .NET (C#);
-- [x] Node.js, Angular.js, React.js (TypeScript and Javascript);
-- [x] CI/CD;
-- [x] Docker and Kubernetes;
-- [x] Agile Methodologies;
-- [x] Python;
-- [x] Blender;
-- [x] Linux;
-- [x] Git;
-- [x] Design Patterns (SOLID, Repository Pattern, etc.);
-- [x] Domain Driven Design (DDD);
-- [ ] C++;
-- [ ] Elixir;
-- [ ] Golang;
-- [x] AWS;
-- [ ] Azure;
+### My Knowledge
 
-### Stats
-<div align="center">
-  <img width="450em" alt="deepzS2's GitHub stats" src="https://my-github-readme-stats-olive.vercel.app/api?username=deepzS2&show_icons=true&theme=dark" />
-  <img width="380em" alt="deepzS2's GitHub stats" src="https://my-github-readme-stats-olive.vercel.app/api/top-langs/?username=deepzS2&layout=compact&show_icons=true&theme=dark" />
-</div>
+And I'm still learning more about the crazy world of programming!
 
-![Snake animation](https://github.com/deepzS2/deepzS2/blob/output/github-contribution-grid-snake.svg)
+- [x]  SQL (PostgresSQL, MySQL, SQLite, etc.);
+- [x]  NoSQL (MongoDB, Cassandra, Redis, etc.);
+- [x]  Unity and .NET (C#);
+- [x]  Node.js, Angular.js, React.js (TypeScript and Javascript);
+- [x]  CI/CD;
+- [x]  Docker and Kubernetes;
+- [x]  Agile Methodologies;
+- [x]  Python;
+- [x]  Blender;
+- [x]  Linux;
+- [x]  Git;
+- [x]  Design Patterns (SOLID, Repository Pattern, etc.);
+- [x]  Domain Driven Design (DDD);
+- [x]  Rust;
+- [ ]  C++;
+- [ ]  Elixir;
+- [ ]  Golang;
+- [x]  AWS;
+- [ ]  Azure.
